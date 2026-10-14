@@ -1,0 +1,1 @@
+Scripts for implementation of standard MD. The input coordinates and other data files are submitted as the supporting information of the manuscript.
