@@ -9,8 +9,3 @@ read\_dcd\_dist\_cal.f
 dataset-prep.ipynb
 
 
-
-**3. Calculated Distance Feature Matrices for all the systems:**
-
-Distance Feature Matrices (ZIP)
-
