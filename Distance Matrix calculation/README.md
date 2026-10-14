@@ -1,0 +1,16 @@
+1. **Script for calculating the C-alpha-C-alpha distance matrix for all frames:**
+
+read\_dcd\_dist\_cal.f
+
+
+
+**2. Jupyter notebook for converting the .txt output of the previous script into .csv format:**
+
+dataset-prep.ipynb
+
+
+
+**3. Calculated Distance Feature Matrices for all the systems:**
+
+Distance Feature Matrices (ZIP)
+
